@@ -11,8 +11,5 @@ st.write('Este proyecto se hace con la intención de prácticar, tanto el análi
          'como el llevar este análisis a streamlit, y así poder compartir esta información \n'
          'con otras personas, y mejorar mis habilidades en la analítica de los datos')
 
-st.sidebar('Revisa los datos')
-
-if st.checkbox('Mostrar Texto'):
-    st.write('hola')
+st.sidebar()
 
