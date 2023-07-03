@@ -1,6 +1,6 @@
 # Análisis Trabanca
 
-###Para este proyecto, fui contactado por la entidad financiera *Trabanca*, con la intención de verificar sus datos, y poder mostrar la incidencia de los tipos de transacciones en el balance de las cuentas. Considerando los datos encontrados en 2020 y 2021. 
+### Para este proyecto, fui contactado por la entidad financiera *Trabanca*, con la intención de verificar sus datos, y poder mostrar la incidencia de los tipos de transacciones en el balance de las cuentas. Considerando los datos encontrados en 2020 y 2021. 
 
 Nota: Los datos de estas transacciones como la entidad financiera son ficticias.
 
@@ -9,7 +9,7 @@ Nota: Los datos de estas transacciones como la entidad financiera son ficticias.
 ### Evaluar las potencialidades y alcance de Streamlit, para mostrar datos y gráficos interactivos, con sus respectivos filtros.
 ### Deployar la página a partir del repositorio de github. 
 
-##bStacktecnológico:
+## Stacktecnológico:
 ### VScode: Herramienta de código, y entorno virtual.
 ### Github: Verficación y control de versiones
 ### Streamlit.app: Página para hacer el deploy del proyecto.
